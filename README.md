@@ -9,6 +9,6 @@
    ```
 3. **Run in PyCharm terminal:**
    ```
-   streamlit run carbon_sense_app.py
+   streamlit run main.py
    ```
 4. Open the browser link shown to use the app.
