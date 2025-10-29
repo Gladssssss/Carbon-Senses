@@ -1,2 +1,14 @@
-# Carbon-Senses
-The Carbon-Senses App is a sustainability-focused web application designed to estimate and visualize carbon dioxide (C02) emissions across major operational sectors of an organization, such as transport, logistics, and energy use. The system allows users to analyze their carbon footprint and simulate optimized emission reduction strategies
+# Carbon Sense
+**Carbon Sense** is a Streamlit app to estimate and visualize logistics carbon emissions.
+## Installation & Run (PyCharm)
+1. **Python version required:**  
+   Python 3.8 or higher
+2. **Install dependencies:**
+   ```
+   pip install streamlit pandas plotly
+   ```
+3. **Run in PyCharm terminal:**
+   ```
+   streamlit run carbon_sense_app.py
+   ```
+4. Open the browser link shown to use the app.
